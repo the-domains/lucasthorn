@@ -4,8 +4,16 @@
         <description><![CDATA[Lucas Thorn]]></description>
         <link>https://thegrid.ai/lucasthorn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 12:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 12:09:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lucasthorn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+</p>]]></description>
+            <link>https://thegrid.ai/lucasthorn/988df152-73b0-4515-ba98-64703cad18fc/index.html</link>
+            <guid isPermaLink="false">988df152-73b0-4515-ba98-64703cad18fc</guid>
+            <pubDate>Fri, 03 Jun 2016 12:09:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fae56f14-e9b9-473b-ae64-48344d9c44dc.png">]]></description>
@@ -68,13 +76,6 @@
             <link>https://thegrid.ai/lucasthorn/if-quentin-tarantino-ever-pulled-himself-away-from-making-b/index.html</link>
             <guid isPermaLink="false">db1e709e-8eb2-4cf4-9aa9-3b229c7cb422</guid>
             <pubDate>Fri, 03 Jun 2016 11:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> Thisis the elf Heroic Fantasy was waiting for. Blending the most brutal elements of Westerns and Hardboiled Detective fiction into Heroic Fantasy, the Nysta series offers a new breed of elf unlike any you've ever read. </p>]]></description>
-            <link>https://thegrid.ai/lucasthorn/thisis-the-elf-heroic-fantasy-was-waiting-for-blending-the/index.html</link>
-            <guid isPermaLink="false">141745db-c63b-48b8-87ff-7aa497e3a1ae</guid>
-            <pubDate>Fri, 03 Jun 2016 11:43:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
